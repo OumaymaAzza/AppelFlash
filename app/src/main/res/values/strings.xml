@@ -1,0 +1,7 @@
+
+    <resources>
+        <string name="app_name">Appel Flash</string>
+        <string name="activer_le_flash_sur_appel">Activer le Flash sur appel</string>
+        <string name="desactiver_le_flash_sur_appel">Désactiver le Flash sur appel</string>
+        <string name="appel_flash" />
+    </resources>
