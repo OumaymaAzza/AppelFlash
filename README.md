@@ -27,7 +27,9 @@ L'application nécessite les permissions suivantes pour fonctionner :
 - Ajouter une interface utilisateur pour personnaliser la fréquence de clignotement.  
 - Support pour d'autres notifications visuelles.  
 - Option pour désactiver/activer l'application directement depuis les paramètres.
-[Regardez la vidéo ici](https://drive.google.com/file/d/17wJjJIbT0QT0zWDpYxgqkas2xk55zVXu/view?usp=sharing)
+
+
+- [Regardez la vidéo ici](https://drive.google.com/file/d/17wJjJIbT0QT0zWDpYxgqkas2xk55zVXu/view?usp=sharing)
 
 
 
