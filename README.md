@@ -29,7 +29,5 @@ L'application nécessite les permissions suivantes pour fonctionner :
 - Option pour désactiver/activer l'application directement depuis les paramètres.
 
 
-- [Regardez la vidéo ici](https://drive.google.com/file/d/17wJjJIbT0QT0zWDpYxgqkas2xk55zVXu/view?usp=sharing)
-
 
 
